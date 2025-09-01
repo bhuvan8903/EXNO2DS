@@ -36,10 +36,10 @@ df
 df.shape
 ```
 <img width="197" height="57" alt="image" src="https://github.com/user-attachments/assets/7d7ffab9-6431-4779-b0dc-38526ceecb57" />
-```
+
 df.set_index("PassengerId",inplace=True)
 df
-```
+
 <img width="1367" height="537" alt="image" src="https://github.com/user-attachments/assets/10086c01-3363-40b2-b169-dcc3146ad3b7" />
 ```
 df.nunique()
